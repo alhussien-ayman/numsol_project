@@ -1,0 +1,7 @@
+# requirements.txt
+Flask
+numpy
+scipy
+plotly
+python-dotenv
+pandas
